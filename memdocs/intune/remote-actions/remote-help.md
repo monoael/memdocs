@@ -98,6 +98,7 @@ Both the helper and sharer must be able to reach these endpoints over port 443:
 | \*.api.support.microsoft.com       | API access for remote help                          |
 | \*.vortex.data.microsoft.com      | Used for diagnostic data                                |
 | \*.channelservices.microsoft.com  | Required for chat services within remote help        |
+| \152.199.19.160                   | CDN IP for requesting security codes                 |
 
 ### Data and privacy
 
