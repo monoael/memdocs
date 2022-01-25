@@ -84,8 +84,6 @@ The Remote help app supports the following capabilities:
 
 Remote help communicates over port 443 (https) and connects to the Remote Assistance Service at `https://remoteassistance.support.services.microsoft.com` by using the Remote Desktop Protocol (RDP). The traffic is encrypted with TLS 1.2.
 
-In some cases whitelisting of Verizon Business IP is required in order for you to be able to request a security code. (152.199.19.160)
-
 Both the helper and sharer must be able to reach these endpoints over port 443:
 
 | Domain/Name                       | Description                                           |
